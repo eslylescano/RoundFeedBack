@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#da000000</color>
+    <color name="colorAccent">#ff4081</color>
+    <color name="colorBackground">#000000</color>
+    <color name="colorBackgroundBox">#0f0f13</color>
+    <color name="colorDivider">#161619</color>
+    <color name="progressCounter">#f50000</color>
+</resources>
